@@ -1,6 +1,6 @@
 # Humorography
 
-# OVERVIEW:
+# OVERVIEW
 A story of myself within the context of humor. Including specific examples (variety) of my humor and an analysis (graph) compares my humor to the users.
 
 This was a project for McBride Honor's class: where we explore history in the lense of Humor. 
@@ -23,7 +23,7 @@ Level 4 - Audio Clips
 
 Level 5 - K-pop Memes
 
-If the user selects NO a lot in a level, it bumps back to the previous level. This simulates the fact that if someone doesn’t find a certain Level of my Humor funny, it’ll never progress to the next Level. In other words, without continuous positive response to my Humor, it diminishes. (People will never know how truly funny I am …) 
+If the user selects NO a lot in a level, it bumps back to the previous level. This simulates the fact that if someone doesn’t find a certain Level of my Humor funny, it’ll never progress to the next Level. In other words, without continuous positive response to my Humor, it diminishes. 
 
 Also built into the game, is an option to see the “Giggle Graph” (press the Key “G” to view & Key “B” to Exit Graph), which visualizes how much Humor the user shares with me. The more Green compared to Red, shows that the user has a similar Humor as me. 
 
