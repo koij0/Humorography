@@ -1,0 +1,15 @@
+assets/sfx/shelvis_makes_games-sus-meme-sound-181271.wav
+assets/sfx/aa-with-reverb-meme-381632.wav
+assets/sfx/bruh-sound-effect-1-6970.wav
+assets/sfx/delon_boomkin-wet-farts-meme-sound-effect-474222.wav
+assets/sfx/fah-469417.wav
+assets/sfx/freesound_community-mission-impossible-kazoo-66628.wav
+assets/sfx/kittenstrike1-quothello-therequot-158832.wav
+assets/sfx/mario-grabish-14183.wav
+assets/sfx/meme-fail-alert-443251.wav
+assets/sfx/rickroll-but-short.wav
+assets/sfx/rizz-sound-effects-458250.wav
+assets/sfx/thud-sound-effect-319090.wav
+assets/sfx/u_xfie8d944c-hahaha-251796.wav
+assets/sfx/woooooaah-199849.wav
+assets/sfx/yeah-boy-114748.wav
