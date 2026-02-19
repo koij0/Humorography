@@ -5,6 +5,8 @@ A story of myself within the context of humor. Including specific examples (vari
 
 This was a project for McBride Honor's class: where we explore history in the lense of Humor. 
 
+OUTCOME: Applying Technical Skills (such as Python) to create a Creative
+
 # NOTES
 
 For my Humorography, I wanted to create a game that demonstrated my relationship with Humor. For me it’s a “give-and-take”: the more laughter a person “gives” towards my Humor, the more they can “take” (or receive). My Humor depends on response and builds by positive feedback. My Humor, in a way, is also a game or a program for me to play and decode. 
