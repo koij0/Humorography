@@ -12,10 +12,15 @@ For my Humorography, I wanted to create a game that demonstrated my relationship
 So, as the user plays through Humorography ~ Giggle Game, it progresses to different levels depending on the user’s input: YES (“I laughed”) or NO (“I didn’t laugh”). 
 
 The different levels represent the levels of my Humor:
+
 Level 1 - Dad Jokes
+
 Level 2 - General Memes
+
 Level 3 - STEM Memes
+
 Level 4 - Audio Clips
+
 Level 5 - K-pop Memes
 
 If the user selects NO a lot in a level, it bumps back to the previous level. This simulates the fact that if someone doesn’t find a certain Level of my Humor funny, it’ll never progress to the next Level. In other words, without continuous positive response to my Humor, it diminishes. (People will never know how truly funny I am …) 
@@ -26,4 +31,5 @@ Also built into the game, is an option to see the “Giggle Graph” (press the 
 # LINKS
 
 Public Game Link: https://koij0.itch.io/humorography
+
 (If Prompted) PASSWORD: McFunny
